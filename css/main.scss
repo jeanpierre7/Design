@@ -1,0 +1,14 @@
+@import "0-tools/bourbon/bourbon";
+@import "reset";
+@import "syntax";
+@import "0-tools/normalize";
+
+
+@import "3_fonts";
+@import "2_vars";
+@import "1_common";
+
+body{
+	background:yellow;
+	display:flex;
+}

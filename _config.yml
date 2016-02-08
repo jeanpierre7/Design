@@ -1,0 +1,4 @@
+name: Jean Pierre Georgie Leyton Reyes
+markdown: redcarpet
+highlighter: rouge # or pygments or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
